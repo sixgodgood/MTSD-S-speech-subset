@@ -24,7 +24,7 @@ This subset contains the picture-description (`image/`), word-reading (`word/`),
 
 ## Access
 
-- **Public subset**: this repository. DOI: `[add Zenodo DOI here]`
+- **Public subset**: this repository. DOI: https://doi.org/10.5281/zenodo.22248906
 - **Full dataset** (including interview recordings that may contain sensitive personal information): available upon request from the corresponding author (E-mail: fzugym@gmail.com) for **non-commercial academic research** only, subject to ethics review and a signed data-use agreement. See the associated publication for the access procedure.
 
 ## License
